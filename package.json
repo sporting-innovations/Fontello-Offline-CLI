@@ -38,7 +38,7 @@
     "svgpath": "^2.2.2",
     "ttf2eot": "^2.0.0",
     "ttf2woff": "^2.0.1",
-    "wawoff2": "^1.0.2",
+    "wawoff2": "^2.0.1",
     "xmldom": "^0.1.27"
   },
   "devDependencies": {
